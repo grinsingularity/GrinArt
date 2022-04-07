@@ -1,7 +1,9 @@
 ##### Hello world! I am Grinツ -∞Singu◯larity+∞ . Grin logos, wallpapers etc can be used from Grin community. Just mention me. Keep grinning ツツツ 
 ##### If you want to donate me here is my Grin address: grin12asu9rxg8dncwucveux46rx8420mxzwwdtc5dvsg4t4grghnqycquc6x3r
 
-###### -----BEGIN PGP PUBLIC KEY BLOCK-----
+
+
+-----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQINBGJO/0MBEACyJN1cNoeDsCvr7lI5saHuerEL7fqeiARmg0x5klu4CX0YwULJ
 jewWK9DT+j0Ufz5r5FiZg6wFp/kXrldTFUYSgdUEJyUnWJdIEJ7MMkj6XkNJuCPb
@@ -53,4 +55,3 @@ CmtyNA7sBe4CFeC7rJSMhP9mqyuNLrFtZSQT0/yGX2RHKldsJxfAvfdCA6OhThfR
 AFn7d6Onk1pSjg==
 =+orj
 -----END PGP PUBLIC KEY BLOCK-----
-
